@@ -4,6 +4,7 @@
 - Python FastAPI
 - PostgreSQL
 - Tested with Postman
+-  Testing POST dan GET di Swagger UI (`/docs`)
 
 ---
 
